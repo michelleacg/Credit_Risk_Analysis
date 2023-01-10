@@ -29,6 +29,3 @@ Built and evaluated several models or algorithms to predict credit risk. Using t
 
 
 
-### Summary:
-
-
