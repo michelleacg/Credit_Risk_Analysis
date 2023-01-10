@@ -10,7 +10,7 @@ Built and evaluated several models or algorithms to predict credit risk. Using t
 
 
 ### 1. Balanced Random Forest Classifier
-![Screen Shot 2023-01-10 at 10 46 28 AM](https://user-images.githubusercontent.com/111101012/211635996-d4a4c0ab-2137-4752-9ea8-882d2ad313a3.png)
+![Screen Shot 2023-01-10 at 10 53 51 AM](https://user-images.githubusercontent.com/111101012/211637296-3eaf9dc9-cbdb-4c6b-9602-067a326719fe.png)
 
 ### 2. Easy Ensemble AdaBoost Classifier
 ![Screen Shot 2023-01-10 at 10 53 22 AM](https://user-images.githubusercontent.com/111101012/211637188-465786a6-29f0-466d-be78-cf35cf460507.png)
@@ -21,10 +21,8 @@ Built and evaluated several models or algorithms to predict credit risk. Using t
 ### 4. SMOTE Oversampling
 ![Screen Shot 2023-01-10 at 10 48 41 AM](https://user-images.githubusercontent.com/111101012/211636340-7399f6c1-1ce5-4b17-91ff-9d26176740cb.png)
 
-
 ### 5. Undersampling
 ![Screen Shot 2023-01-10 at 10 49 13 AM](https://user-images.githubusercontent.com/111101012/211636461-5a294948-0a53-49b6-a817-dd67fa6ce4ba.png)
-
 
 ### 6. Combination (Over and Under) Sampling
 ![Screen Shot 2023-01-10 at 10 49 52 AM](https://user-images.githubusercontent.com/111101012/211636590-ea787d37-6f3b-4852-901e-458a812dbdf9.png)
