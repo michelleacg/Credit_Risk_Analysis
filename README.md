@@ -1,6 +1,10 @@
 # Credit_Risk_Analysis
 
-The purpose of this analysis is well defined (4 pt)
+The purpose of this analysis 
+
+**Supervised Machine Learning**
+
+
 Results:
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
