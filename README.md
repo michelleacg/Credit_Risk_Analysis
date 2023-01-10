@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-##Purpose 
+**Purpose** 
 
 Fast Lending a Peer to Peer Lending Services company wants to use machine learning to predict credit risk. Management believes this will provide. a quicker and more reliable loan experience. It also believes that machine learning will lead to a more accurate identification of good candidates for loans which lead to lower default rates. 
 
